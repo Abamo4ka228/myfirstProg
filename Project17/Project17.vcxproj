@@ -127,9 +127,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="FancPerson.cpp" />
     <ClCompile Include="Source.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="FancPerson.h" />
     <ClInclude Include="Header.h" />
     <ClInclude Include="structPerson.h" />
   </ItemGroup>
